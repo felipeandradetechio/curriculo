@@ -6,8 +6,11 @@
 
 # Sobre mim
 👦🏻 Atualmente estou desempregado, em busca de um emprego na area da tecnologia.
+
 👨‍🎓Estou me aperfeiçoando em java e html. Bem como, finalizando minha graduação em Ciências Econômicas.
+
 🌎Sempre busco evoluir, adquirir mais conhecimento para que no futuro possa ajudar mais a comunidade da tecnologia da informação.<br>
+
 
 #SKILLS 
 
