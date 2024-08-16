@@ -26,6 +26,7 @@
 <a href="https://api.whatsapp.com/send?phone=5549989137713&text=Ol%C3%A1!" >
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a> 
+<div>
 
 
 
